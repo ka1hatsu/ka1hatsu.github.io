@@ -1,5 +1,5 @@
 Legends knows why i make the site like this...
 <details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
+  <summary>Wanna know?</summary>
+   Rule number 1 its a time waste to make a too sophisticated website, people like me have to work on alot of things.
 </details> 
